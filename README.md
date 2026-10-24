@@ -33,6 +33,6 @@
 
 #### link do projeto: https://github.com/2002Bruno/HelpDesk
 
-#### angular-spring: Projeto desenvolvido para gerenciar equipes de futebol utilizando angular 12 e Spring com listagem, de técnicos e criação de times.
+#### angular-spring: API de autenticação de usuários
 
-#### link do projeto: https://github.com/DalthonMike/angular-spring
+#### link do projeto: https://github.com/Bruno-rodr1gues/auth-api
