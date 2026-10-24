@@ -33,6 +33,6 @@
 
 #### link do projeto: https://github.com/2002Bruno/HelpDesk
 
-#### angular-spring: API de autenticação de usuários
+#### auth-api: API de autenticação de usuários
 
 #### link do projeto: https://github.com/Bruno-rodr1gues/auth-api
